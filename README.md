@@ -41,7 +41,7 @@ At Reclaim I worked on the protocol that turns HTTPS website data into zero-know
 Public repos from that time:
 
 - [reclaim-sdk-backend-demo](https://github.com/Kushal7788/reclaim-sdk-backend-demo): minimal backend using the Reclaim JS SDK
-- [reclaim-demos](https://github.com/Kushal7788/reclaim-demos): seven 2023 demo apps, including a proof-gated Discord bot, KYC-free loan app, scam check, employment verification and a React Native wallet
+- [reclaim-demos](https://github.com/Kushal7788/reclaim-demos): eight 2023 demo apps, including proof-gated Discord and Telegram bots, KYC-free loan app, scam check, employment verification and a React Native wallet
 - [inji-wallet (reclaim-issuer-integration)](https://github.com/Kushal7788/inji-wallet/tree/reclaim-issuer-integration): Reclaim as a credential issuer in MOSIP's Inji Wallet
 - [vc-verifier](https://github.com/Kushal7788/vc-verifier): ISO 8601 date-format support for MOSIP's verifiable-credential verifier
 

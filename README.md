@@ -1,9 +1,9 @@
 # Hi, I'm Kushal 👋
 
-I build zero-knowledge and zkTLS systems: ways to prove facts about your web data (accounts, history, credentials) without handing that data over.
+**Cryptography & Research Engineer.** I build zero-knowledge and zkTLS systems: ways to prove facts about your web data (accounts, history, credentials) without handing that data over.
 
-- 🔭 **Now:** building zkTLS solutions at [Burnt Labs](https://github.com/burnt-labs)
-- 🧾 **Before:** worked with [Reclaim Protocol](https://www.reclaimprotocol.org/) on zkTLS proofs of web data
+- 🔭 **Now:** building zkTLS solutions at [Burnt Labs](https://github.com/burnt-labs) (Sep 2025 – present)
+- 🧾 **Before:** worked with [Reclaim Protocol](https://www.reclaimprotocol.org/) on zkTLS proofs of web data (Jun 2023 – Aug 2025)
 - 🎓 **Education:** M.Tech in Computer Science & Information Security, IIIT Hyderabad · B.Tech in Computer Engineering, VIIT Pune
 - 🌐 **Portfolio:** [kushal7788.github.io](https://kushal7788.github.io/)
 
@@ -17,8 +17,8 @@ I build zero-knowledge and zkTLS systems: ways to prove facts about your web dat
 
 | Where | What I worked on |
 |---|---|
-| **[Burnt Labs](https://github.com/burnt-labs)** (current) | zkTLS solutions for proving web data |
-| **[Reclaim Protocol](https://www.reclaimprotocol.org/)** | zkTLS SDKs (JS, React Native, Flutter, Python), the provider devtool, ClickHouse/Grafana analytics, an A2A verification agent |
+| **[Burnt Labs](https://github.com/burnt-labs)** (Sep 2025 – present) | zkTLS solutions for proving web data |
+| **[Reclaim Protocol](https://www.reclaimprotocol.org/)** (Jun 2023 – Aug 2025) | zkTLS SDKs (JS, React Native, Flutter, Python), the provider devtool, ClickHouse/Grafana analytics, an A2A verification agent |
 | **Indeed**, Data Science Intern (2022) | Resume spell checker with NER that found 25% more errors than existing tools |
 | **Snowflake**, Software Engineer Intern (2021) | Automated analytics dashboards with real-time alerts; a bulk PDF-watermarking tool |
 | **IDeaS Revenue Solutions**, Software Engineer Intern (2020) | Hotel revenue-management and reservations features, with over 80% test coverage |

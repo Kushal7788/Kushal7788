@@ -64,12 +64,12 @@ At Reclaim I worked on the protocol that turns HTTPS website data into zero-know
 - Built centralised logging and analytics on ClickHouse and Grafana.
 - Built a verification AI agent and MCP server compatible with Google's A2A protocol, for employment and academic checks.
 
-Public repos from that time:
+All my Reclaim work is in **[reclaim-demos](https://github.com/Kushal7788/reclaim-demos)**:
 
-- [reclaim-sdk-backend-demo](https://github.com/Kushal7788/reclaim-sdk-backend-demo): minimal backend using the Reclaim JS SDK
-- [reclaim-demos](https://github.com/Kushal7788/reclaim-demos): eight 2023 demo apps, including proof-gated Discord and Telegram bots, KYC-free loan app, scam check, employment verification and a React Native wallet
-- [inji-wallet (reclaim-issuer-integration)](https://github.com/Kushal7788/inji-wallet/tree/reclaim-issuer-integration): Reclaim as a credential issuer in MOSIP's Inji Wallet
-- [vc-verifier](https://github.com/Kushal7788/vc-verifier): ISO 8601 date-format support for MOSIP's verifiable-credential verifier
+- [Inji Wallet: Reclaim issuer](https://github.com/Kushal7788/reclaim-demos/tree/main/mosip-contributions/inji-wallet-reclaim-issuer): Reclaim as a credential issuer in MOSIP's digital-identity wallet, turning zkTLS proofs into verifiable credentials
+- [vc-verifier: ISO 8601 dates](https://github.com/Kushal7788/reclaim-demos/tree/main/mosip-contributions/vc-verifier-iso8601-dates): microsecond timestamp support in MOSIP's verifiable-credential verifier
+- [SDK backend demo](https://github.com/Kushal7788/reclaim-demos/tree/main/sdk-backend-demo): a minimal server-side Reclaim integration
+- Eight 2023 demo apps: proof-gated Discord and Telegram bots, a KYC-free loan app, a scam check, employment verification and a React Native wallet
 
 ---
 

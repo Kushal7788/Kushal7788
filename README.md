@@ -75,7 +75,7 @@ Public repos from that time:
 
 ## 🤖 Machine learning, NLP & IR
 
-- [CodeMix_Generation](https://github.com/Kushal7788/CodeMix_Generation): Hinglish code-mixed dialogue generation with masked language modelling (Seq2Seq LSTM, BERT), scored with ROUGE
+- [CodeMix_Generation](https://github.com/Kushal7788/CodeMix_Generation): Hinglish code-mixed text generation, comparing LSTM/BiLSTM next-word models, a Hinglish sentence-encoder head and a fine-tuned BERT masked LM (ROUGE-L, perplexity)
 - [Wikipedia_Search_Engine](https://github.com/Kushal7788/Wikipedia_Search_Engine): inverted index and TF-IDF ranking over the full English Wikipedia
 - [Dimensionality_Reduction_Techniques](https://github.com/Kushal7788/Dimensionality_Reduction_Techniques): PCA vs three autoencoder architectures on a face-image dataset
 - [Optical_Flow_LK](https://github.com/Kushal7788/Optical_Flow_LK): multi-scale coarse-to-fine Lucas-Kanade optical flow

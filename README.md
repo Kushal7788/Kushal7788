@@ -1,6 +1,6 @@
 # Hi, I'm Kushal 👋
 
-I build zkTLS systems at [Burnt Labs](https://github.com/burnt-labs): ways to prove facts about your web data (accounts, history, credentials) without handing that data over. Before that I worked on Reclaim Protocol demos, and did an M.Tech focused on systems, information retrieval and ML.
+I build zkTLS systems at [Burnt Labs](https://github.com/burnt-labs): ways to prove facts about your web data (accounts, history, credentials) without handing that data over. Before that I worked with Reclaim Protocol, and did an M.Tech focused on information security and computer science.
 
 🌐 [kushal7788.github.io](https://kushal7788.github.io/)
 

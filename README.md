@@ -78,15 +78,13 @@ Also: during a data-science internship at Indeed, I built a resume spell checker
 - [P2P_File_Sharing_System](https://github.com/Kushal7788/P2P_File_Sharing_System): tracker-based group file sharing with TCP sockets, pthreads and SHA-1 piece hashing (C++)
 
 <details>
-<summary><b>Web, mobile & robotics (undergrad era, archived)</b></summary>
+<summary><b>Web & mobile (undergrad era, archived)</b></summary>
 
 - [Covid19-Statistics-Web](https://github.com/Kushal7788/Covid19-Statistics-Web): COVID-19 stats for India (Django)
 - [Alumini-Web](https://github.com/Kushal7788/Alumini-Web): alumni portal (Django)
 - [Machine-Learning-Visualizer](https://github.com/Kushal7788/Machine-Learning-Visualizer): ML algorithm visualiser (Django)
-- [HC-05-App](https://github.com/Kushal7788/HC-05-App): Android to Arduino Bluetooth control
 - [LocationApp](https://github.com/Kushal7788/LocationApp): Android GPS app
 - [bounty-uz2wj](https://github.com/Kushal7788/bounty-uz2wj): time-locked message smart contract (Solidity)
-- [MS-Liner](https://github.com/Kushal7788/MS-Liner): Arduino line-follower robot
 
 </details>
 

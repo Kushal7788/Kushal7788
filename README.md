@@ -5,9 +5,13 @@ I build zero-knowledge and zkTLS systems: ways to prove facts about your web dat
 - 🔭 **Now:** building zkTLS solutions at [Burnt Labs](https://github.com/burnt-labs)
 - 🧾 **Before:** worked with [Reclaim Protocol](https://www.reclaimprotocol.org/) on zkTLS proofs of web data
 - 🎓 **Education:** M.Tech in Computer Science & Information Security, IIIT Hyderabad · B.Tech in Computer Engineering, VIIT Pune
-- 🌐 [kushal7788.github.io](https://kushal7788.github.io/) · [LinkedIn](https://www.linkedin.com/in/kushal-s/)
+- 🌐 **Portfolio:** [kushal7788.github.io](https://kushal7788.github.io/)
 
-💬 Happy to talk about zero-knowledge, zkTLS and privacy-engineering work. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/kushal-s/).
+💬 Happy to talk about zero-knowledge, zkTLS and privacy-engineering work. Let's connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kushal--s-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-s/)
+[![Telegram](https://img.shields.io/badge/Telegram-@KushalS7788-26A5E4?logo=telegram&logoColor=white)](https://t.me/KushalS7788)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kushal7788.github.io-111827?logo=githubpages&logoColor=white)](https://kushal7788.github.io/)
 
 ### 🧑‍💻 Experience
 

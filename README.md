@@ -16,7 +16,7 @@ I build zero-knowledge and zkTLS systems: ways to prove facts about your web dat
 | [zk-backpack](https://github.com/Kushal7788/zk-backpack) | Flutter vault for TLSNotary web proofs with selective disclosure and revocable share links |
 | [plugin-service](https://github.com/Kushal7788/plugin-service) | TLSNotary MPC-TLS verifier and notary service in Rust (axum) for mobile provers |
 | [Vibe-Match](https://github.com/Kushal7788/Vibe-Match-Client) | Prove your Netflix/Prime watch history with zkTLS and match on taste ([service](https://github.com/Kushal7788/Vibe-Match-Service)) |
-| [CodeMix_Generation](https://github.com/Kushal7788/CodeMix_Generation) | Hinglish code-mixed text generation with n-gram, BiLSTM and BERT models |
+| [zk-circuits-playground](https://github.com/Kushal7788/zk-circuits-playground) | Circom circuits I write, prove and test, starting with a private email-domain verifier |
 | [Wikipedia_Search_Engine](https://github.com/Kushal7788/Wikipedia_Search_Engine) | Field-aware inverted index and TF-IDF ranked search over the full ~90 GB English Wikipedia dump |
 | [SQL_Database_Engine](https://github.com/Kushal7788/SQL_Database_Engine) | Disk-backed relational query engine in C++ with a buffer pool and join algorithms |
 

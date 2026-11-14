@@ -7,6 +7,32 @@ I build zero-knowledge and zkTLS systems: ways to prove facts about your web dat
 - 🎓 **Education:** M.Tech in Computer Science & Information Security, IIIT Hyderabad · B.Tech in Computer Engineering, VIIT Pune
 - 🌐 [kushal7788.github.io](https://kushal7788.github.io/) · [LinkedIn](https://www.linkedin.com/in/kushal-s/)
 
+💬 Happy to talk about zero-knowledge, zkTLS and privacy-engineering work. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/kushal-s/).
+
+### 🧑‍💻 Experience
+
+| Where | What I worked on |
+|---|---|
+| **[Burnt Labs](https://github.com/burnt-labs)** (current) | zkTLS solutions for proving web data |
+| **[Reclaim Protocol](https://www.reclaimprotocol.org/)** | zkTLS SDKs (JS, React Native, Flutter, Python), the provider devtool, ClickHouse/Grafana analytics, an A2A verification agent |
+| **Indeed**, Data Science Intern (2022) | Resume spell checker with NER that found 25% more errors than existing tools |
+| **Snowflake**, Software Engineer Intern (2021) | Automated analytics dashboards with real-time alerts; a bulk PDF-watermarking tool |
+| **IDeaS Revenue Solutions**, Software Engineer Intern (2020) | Hotel revenue-management and reservations features, with over 80% test coverage |
+
+### 🛠️ Tech
+
+- **ZK & cryptography:** zkTLS, TLSNotary (MPC-TLS), Circom, snarkjs (Groth16), selective disclosure
+- **Languages:** Rust, TypeScript/JavaScript, Python, Dart, C++, Java
+- **Backend & infra:** Node.js/Express, axum, MongoDB, Redis, ClickHouse, Grafana, AWS, Cloudflare Workers, Docker
+- **Frontend & mobile:** React, React Native, Flutter
+- **ML:** PyTorch, Keras, scikit-learn, NLTK, transformers (BERT), LLM serving with Ollama
+
+### 🏆 Highlights
+
+- GATE 2021: 98th percentile
+- Two ETHGlobal hackathons
+- Deep Learning Specialization (DeepLearning.AI) · Fundamentals of Computer Vision (NVIDIA DLI)
+
 ---
 
 ## 📌 Featured

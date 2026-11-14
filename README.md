@@ -77,7 +77,7 @@ Public repos from that time:
 
 - [CodeMix_Generation](https://github.com/Kushal7788/CodeMix_Generation): Hinglish code-mixed text generation, comparing LSTM/BiLSTM next-word models, a Hinglish sentence-encoder head and a fine-tuned BERT masked LM (ROUGE-L, perplexity)
 - [Wikipedia_Search_Engine](https://github.com/Kushal7788/Wikipedia_Search_Engine): inverted index and TF-IDF ranking over the full English Wikipedia
-- [Dimensionality_Reduction_Techniques](https://github.com/Kushal7788/Dimensionality_Reduction_Techniques): PCA vs three autoencoder architectures on a face-image dataset
+- [Dimensionality_Reduction_Techniques](https://github.com/Kushal7788/Dimensionality_Reduction_Techniques): PCA from scratch (eigenfaces, explained variance) and three PyTorch autoencoder architectures
 - [Optical_Flow_LK](https://github.com/Kushal7788/Optical_Flow_LK): multi-scale coarse-to-fine Lucas-Kanade optical flow
 - [Optimizer-ML-Project](https://github.com/Kushal7788/Optimizer-ML-Project): eight gradient-descent optimizers from scratch, from SGD to Adam
 - [llm-deploy](https://github.com/Kushal7788/llm-deploy): self-hosted DeepSeek-R1 chat API (FastAPI + Ollama)

@@ -77,17 +77,6 @@ Also: during a data-science internship at Indeed, I built a resume spell checker
 - [SQL_Database_Engine](https://github.com/Kushal7788/SQL_Database_Engine): relational query engine with paged storage, buffer pool, joins and GROUP BY (C++)
 - [P2P_File_Sharing_System](https://github.com/Kushal7788/P2P_File_Sharing_System): tracker-based group file sharing with TCP sockets, pthreads and SHA-1 piece hashing (C++)
 
-<details>
-<summary><b>Web & mobile (undergrad era, archived)</b></summary>
-
-- [Covid19-Statistics-Web](https://github.com/Kushal7788/Covid19-Statistics-Web): COVID-19 stats for India (Django)
-- [Alumini-Web](https://github.com/Kushal7788/Alumini-Web): alumni portal (Django)
-- [Machine-Learning-Visualizer](https://github.com/Kushal7788/Machine-Learning-Visualizer): ML algorithm visualiser (Django)
-- [LocationApp](https://github.com/Kushal7788/LocationApp): Android GPS app
-- [bounty-uz2wj](https://github.com/Kushal7788/bounty-uz2wj): time-locked message smart contract (Solidity)
-
-</details>
-
 ---
 
 **Browse by topic:** [zktls](https://github.com/Kushal7788?tab=repositories&q=topic%3Azktls) · [zero-knowledge](https://github.com/Kushal7788?tab=repositories&q=topic%3Azero-knowledge) · [machine-learning](https://github.com/Kushal7788?tab=repositories&q=topic%3Amachine-learning) · [systems](https://github.com/Kushal7788?tab=repositories&q=topic%3Asystems)

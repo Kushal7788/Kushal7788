@@ -41,21 +41,9 @@ At Reclaim I worked on the protocol that turns HTTPS website data into zero-know
 Public repos from that time:
 
 - [reclaim-sdk-backend-demo](https://github.com/Kushal7788/reclaim-sdk-backend-demo): minimal backend using the Reclaim JS SDK
+- [reclaim-demos](https://github.com/Kushal7788/reclaim-demos): seven 2023 demo apps, including a proof-gated Discord bot, KYC-free loan app, scam check, employment verification and a React Native wallet
 - [inji-wallet (reclaim-issuer-integration)](https://github.com/Kushal7788/inji-wallet/tree/reclaim-issuer-integration): Reclaim as a credential issuer in MOSIP's Inji Wallet
 - [vc-verifier](https://github.com/Kushal7788/vc-verifier): ISO 8601 date-format support for MOSIP's verifiable-credential verifier
-
-<details>
-<summary><b>Early Reclaim demo apps (2023, archived)</b></summary>
-
-- [gatekeeper-discord](https://github.com/Kushal7788/gatekeeper-discord): Discord role gating with proofs
-- [bots-landing-page](https://github.com/Kushal7788/bots-landing-page): ScamCheck bot setup flow
-- [Reclaim-NSID](https://github.com/Kushal7788/Reclaim-NSID): Network State ID
-- [reclaim-loanapp](https://github.com/Kushal7788/reclaim-loanapp): loan KYC via proofs
-- [reclaim-scamcheck](https://github.com/Kushal7788/reclaim-scamcheck): WhyTrustYou? scam check
-- [CompVi](https://github.com/Kushal7788/CompVi): employment verification
-- [KaggleCoin](https://github.com/Kushal7788/KaggleCoin): React Native wallet with a Kaggle profile proof
-
-</details>
 
 ---
 
